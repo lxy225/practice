@@ -1,5 +1,6 @@
 package com.wrq.feature1;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
@@ -10,5 +11,6 @@ public class f1test {
         HashMap map = new HashMap();
         map.put(3,5);
 
+        ArrayList<Object> list = new ArrayList<>();
     }
 }
